@@ -13,3 +13,4 @@ node_modules/
 # OS
 .DS_Store
 Thumbs.db
+/Lesson_1_Typescript/Lesson_1/obj
