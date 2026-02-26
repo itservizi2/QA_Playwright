@@ -1,0 +1,15 @@
+# Compiled output
+temp/
+
+# Node modules
+node_modules/
+
+# IDE
+.vscode/
+.idea/
+.vs/
+.vs
+
+# OS
+.DS_Store
+Thumbs.db
